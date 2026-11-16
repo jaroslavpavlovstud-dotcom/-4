@@ -104,7 +104,3 @@ def main():
         )
 
     print("\nВсего комбинаций:", len(valid_combinations))
-
-
-if __name__ == "__main__":
-    main()
